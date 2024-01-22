@@ -8,7 +8,7 @@ It is famous for **spicy chicken biryani** with **affordable prices** and authen
 
 1. Shawarma
 5. Mutton Biryani
-7. Hot Bone Soup
+7.  Mutton Hot Bone Soup
 
 
 * Charminar
@@ -17,6 +17,13 @@ It is famous for **spicy chicken biryani** with **affordable prices** and authen
 
 
 Mymedia.md file will be in this [page](MyMedia.md)
+
+
+***
+
+
+
+
 
 
 
