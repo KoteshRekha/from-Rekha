@@ -10,3 +10,11 @@ It is famous for **spicy chicken biryani** with **affordable prices** and authen
 5. Mutton Biryani
 7. Hot Bone Soup
 
+
+* Charminar
+* Museum
+* Animal Park
+
+
+
+
