@@ -16,5 +16,6 @@ It is famous for **spicy chicken biryani** with **affordable prices** and authen
 * Museum
 * Animal Park
 
-
+ MyMedia.md file will be in this [page](MyMedia.md)
+ 
 
