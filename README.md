@@ -32,3 +32,12 @@ The following table shows one of my favourite songs from different movies.
 |Pakka Local|Janatha Garrage|NTR|
 |Evarevaro|Animal|Ranbir|
 |Tum Hiho|Ashiqui|Aditya|
+
+***
+
+# Quotes
+
+> Face the failure, until the failure fails to face you - *Ms Dhoni*
+>
+> I think it is possible for ordinary people to choose to be extraordinary - *Elon Musk*
+
