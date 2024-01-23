@@ -17,5 +17,18 @@ It is famous for **spicy chicken biryani** with **affordable prices** and authen
 * Animal Park
 
  MyMedia.md file will be in this [page](MyMedia.md)
- 
 
+
+***
+
+## Melodies
+
+The following table shows one of my favourite songs from different movies.
+
+
+|Song Name|Movie Name|Hero|
+|:---|:---:|---:|
+|Pilla raa|Rx100|Karthikeya|
+|Pakka Local|Janatha Garrage|NTR|
+|Evarevaro|Animal|Ranbir|
+|Tum Hiho|Ashiqui|Aditya|
