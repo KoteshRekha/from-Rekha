@@ -41,3 +41,20 @@ The following table shows one of my favourite songs from different movies.
 >
 > I think it is possible for ordinary people to choose to be extraordinary - *Elon Musk*
 
+
+
+***
+
+## Coding 
+
+The Avg command in SQL returns the average value of a numeric column.
+
+
+```
+SELECT AVG(column_name)
+FROM table_name
+WHERE condition;
+
+```
+
+Link for SQL code snippet is <https://code.pieces.app/collections/sql>
